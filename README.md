@@ -1,6 +1,8 @@
-### Hi there 👋 Welcome !
+### henlo xD 👋 Welcome !
 
-[![1cecreamm github stats](https://github-readme-stats.vercel.app/api?username=1cecreamm)](https://github.com/1cecreamm)
+<img align='left' src='https://i.pinimg.com/236x/37/99/63/379963b87ef036f6d897021800b72deb--akashic-records-chibi.jpg' width='200"'>
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=1cecreamm)](https://github.com/1cecreamm)
 
 <!--
 **1cecreamm/1cecreamm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
