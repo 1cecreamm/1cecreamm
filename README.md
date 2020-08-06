@@ -2,7 +2,7 @@
 ![Header](https://i.pinimg.com/236x/37/99/63/379963b87ef036f6d897021800b72deb--akashic-records-chibi.jpg)
 > Get ready to blame the world
 ```
-Hi, Hisokadev | 1cecreamm. Im stoopid
+Hi, Im Hisokadev a.k.a 1cecreamm. Im genius xD
 I do what I like fast. so as not to waste time. 
 Im sleepy.
 ```
